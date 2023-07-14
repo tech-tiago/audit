@@ -1,4 +1,4 @@
-# Formulátio Auditoria
+# Audit - Sistema de Auditoria de Áudio
 
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio.svg?style=social&label=Stars&maxAge=2592000)](https://github.com/seu-usuario/seu-repositorio/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio.svg?style=social&label=Forks&maxAge=2592000)](https://github.com/seu-usuario/seu-repositorio/network/)
@@ -44,4 +44,20 @@ Se você deseja contribuir com o projeto, siga as etapas abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a licença [Nome da Licença] - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença [MIT](LICENSE) - veja o arquivo LICENSE para mais detalhes.
+
+## Colaboradores
+
+Agradecemos a todos os colaboradores que contribuíram para este projeto:
+
+<div align="center">
+  <a href="https://github.com/colaborador1">
+    <img src="https://avatars.githubusercontent.com/colaborador1" width="80" height="80" alt="Colaborador 1">
+  </a>
+  <a href="https://github.com/colaborador2">
+    <img src="https://avatars.githubusercontent.com/colaborador2" width="80" height="80" alt="Colaborador 2">
+  </a>
+  <a href="https://github.com/colaborador3">
+    <img src="https://avatars.githubusercontent.com/colaborador3" width="80" height="80" alt="Colaborador 3">
+  </a>
+</div>
